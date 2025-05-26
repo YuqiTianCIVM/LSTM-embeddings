@@ -16,7 +16,7 @@ lstm-embeddings/
 ├── models/
 │   └── lstm_player_embedding.py        # LSTM encoder & embedding extraction
 ├── notebooks/
-│   └── analysis.ipynb                  # Exploratory data analysis & plausibility checks
+│   └── Player_analysis.ipynb           # Exploratory data analysis & plausibility checks
 ├── finance/                            # Placeholder for future finance embeddings
 │   └── notebook_finance_embeddings.ipynb
 └── README.md                           # Project overview and usage
