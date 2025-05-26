@@ -49,9 +49,10 @@ python models/lstm_player_embedding.py
 3.	Extract embeddings and compute cosine similarities for downstream tasks.
 
 Extensibility
+ ```
 	•	Add new domains: drop your time-series CSV into a subfolder (e.g. finance/), adapt feature engineering, and reuse the LSTM model.
 	•	Customize: tweak maxlen, embedding size, loss-weighting, or switch to Transformer encoders.
-
+ ```
 Contributing
 
 Feel free to open issues or pull requests to add new datasets, improve model architectures, or extend examples!
