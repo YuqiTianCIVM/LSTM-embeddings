@@ -1,7 +1,4 @@
 # LSTM-embeddings
-
-# lstm-sequential-embeddings
-
 A lightweight toolkit for learning fixed-length sequence embeddings using LSTM models, demonstrated on synthetic casino session data (and easily extended to other domains like finance).
 
 ## Features
